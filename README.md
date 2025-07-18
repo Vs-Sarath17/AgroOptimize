@@ -1,2 +1,2 @@
 # AgroOptimize
-Crop_yield_prediction
+A project in which agricultural yield's can be predicted using XGBoost
